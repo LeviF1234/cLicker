@@ -20,7 +20,7 @@ var alerts          = false;
 var upgradesAdded = false;
 
 
-var hacker = false; // you aren't a hacker your a loser
+var hacker = true; // you aren't a hacker your a loser
 
 // Hahaha get Shrekked
 

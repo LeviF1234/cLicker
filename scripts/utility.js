@@ -4,11 +4,8 @@ function openUpgrades() {
 function closeUpgrades() {
 	document.getElementById('upgrades').style.display = 'none';
 }
-function openSettings() {
+function give_bucks() {
 	document.getElementById('settings').style.display = 'block';
-}
-function closeAndSaveSettings() {
-	document.getElementById('settings').style.display = 'none';
 }
 function openAchievements() {
     document.getElementById('achievements').style.display = 'block';
